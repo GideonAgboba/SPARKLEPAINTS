@@ -1,3 +1,25 @@
 {
-
+  "name": "sparkle-web-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.php",
+  "directories": {
+    "test": "test"
+  },
+  "engines": {
+    "composer": "6.10.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gideonagboba/sparklepaints.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gideonagboba/sparklepaints.github.io/issues"
+  },
+  "homepage": "index.php"
 }
