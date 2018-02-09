@@ -27,6 +27,8 @@
     $(".se-pre-con").fadeOut("slow");;
   });
 </script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.js"></script>
 </head>
 <body class="green-body text-white">
   <?php include 'pre.php'; ?>
