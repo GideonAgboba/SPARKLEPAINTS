@@ -1,3 +1,11 @@
+
+
 {
-    
+    "author":
+        {
+            "name": "agboba gideon",
+            "email": "agbobakehinde@naderman.de",
+            "homepage": "https://sparklepaints2018.herokuapp.com/",
+            "role": "Developer"
+        }
 }
